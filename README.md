@@ -21,4 +21,4 @@ La aplicación permite gestionar la información de funcionarios de forma organi
 ✅ Listar funcionarios registrados  
 ✅ Actualizar información existente  
 ✅ Eliminar registros  
-✅ Limpiar formulario con opción Nuevo
+✅ Limpiar formulario 
