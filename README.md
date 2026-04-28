@@ -1,6 +1,6 @@
 # Sistema de Gestión de Funcionarios -- Duvian augusto yepes toro
 
-Aplicación de escritorio desarrollada con **Java** y base de datos **MySQL**, orientada a la administración de funcionarios por operaciones CRUD.
+Aplicación de escritorio desarrollada con **Java** y base de datos **MySQL** orientada a la administración de funcionarios por operaciones CRUD.
 
 ## 📌 Descripción
 En este proyecto se desarrollo aplicando conceptos como:
